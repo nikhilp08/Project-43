@@ -1,0 +1,22 @@
+Object goes from one place to another place through different obsatceles and have 10 levels/gamestates
+
+monster
+
+Obstacles:
+falling rocks
+jump over boulders
+chase people 
+the monster was kept capture then escapes and torments the city
+it can collect coins(coins will be spread out)
+create rain and when rain is falling the monster keeps jumping 
+
+3 game states
+if monster hits rocks or logs then minus 1 or 2 points
+after levels increase moster has to collect more coins and eat more people
+array to make lots of levels 
+you alos get a score for the distance you traveled 
+to pass level get certain amount of people and coins
+
+
+
+
